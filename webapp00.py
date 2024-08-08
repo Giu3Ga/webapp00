@@ -3,4 +3,4 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-st.title("SANTOS FUTEBOL CLUBE")
+st.title("SANTOS FUTEBOL CLUBE TIME DO REI👑👑")
