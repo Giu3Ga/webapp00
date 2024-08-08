@@ -5,4 +5,4 @@ import streamlit as st
 st.title("Olá, Gabriel e Giulia!")
 st.header("Turma 2EI-S")
 st.subheader("Santos👑")
-st.write("Lets go")
+st.write("SEGUE O LÍDER")
